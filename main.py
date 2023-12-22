@@ -2,8 +2,8 @@ import requests
 import subprocess
 import time
 
-WIFI_SSID = "Zaporiggia"
-WIFI_PASSWORD = "172334455"
+WIFI_SSID = "Название_вашей_сети"
+WIFI_PASSWORD = "Пароль_от_сети"
 
 def check_internet():
     url = "http://www.google.com"
